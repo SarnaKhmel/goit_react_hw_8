@@ -1,8 +1,8 @@
 {
-  "name": "goit_react_hw_08",
+  "name": "goit_react_hw_8",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sarnakhmel.github.io/goit_react_hw_08/",
+  "homepage": "https://sarnakhmel.github.io/goit_react_hw_8/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.2",
